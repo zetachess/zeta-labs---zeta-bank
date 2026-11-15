@@ -7,6 +7,10 @@ No hace falta experiencia previa: la idea es aprender probando y entender qué o
 
 > ⚠️ **Importante:** este entorno se ha creado únicamente con fines educativos. Se ejecuta en tu propio equipo y contiene comportamientos inseguros de forma intencionada. No lo publiques en Internet ni lo utilices contra sistemas ajenos.
 
+<p align="center">
+  <img src="img/tarjeta.png" alt="ZetaBank: tarjeta y datos de la cuenta" width="320">
+</p>
+
 ## 🎯 Escenario
 Eres **zeta**, cliente de ZetaBank. Acabas de recibir tus credenciales de acceso a la banca online:
 
