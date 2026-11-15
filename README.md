@@ -1,4 +1,4 @@
-# ZETA LAB 01 — ZetaBank 🏦
+# ZETA LAB — ZetaBank 🏦
 ### Laboratorio de seguridad web
 
 Bienvenido al primer laboratorio de Zeta. En esta práctica entrarás en **ZetaBank**, una banca online ficticia que hemos preparado para que aprendas a mirar una aplicación web como lo hace un pentester: observando qué recibe el navegador, qué envía y qué decide realmente el servidor.
