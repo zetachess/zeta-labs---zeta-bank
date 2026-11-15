@@ -12,14 +12,19 @@ No hace falta experiencia previa: la idea es aprender probando y entender qué o
 </p>
 
 ## 🎯 Escenario
-Eres **zeta**, cliente de ZetaBank. Acabas de recibir tus credenciales de acceso a la banca online:
+### ¿Y si pudieras hacerte millonario entrando en tu propio banco?
 
+Eres cliente de **ZetaBank**, tienes una cuenta bancaria, acceso a la banca online y unas credenciales que acabas de recibir.
+
+Todo parece normal... pero ¿alguna vez te has preguntado cuánto podrías descubrir si investigaras a fondo tu propio banco?
+
+Quizás haya algo más detrás de esa pantalla de inicio de sesión. Quizás tu cuenta esconda algo que nadie esperaba que encontraras.
+
+**Tus credenciales:**
 - Usuario: `zeta`
 - Contraseña: `Zeta123`
 
 **Tu misión:** conseguir la flag, que tiene el formato `ZETA{...}`.
-
-No te contamos más: descubrir cómo es parte del reto.
 
 ## 📚 ¿Qué vamos a practicar?
 - Navegar una aplicación web e identificar qué acciones permite.
